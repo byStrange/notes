@@ -2,4 +2,5 @@
 	- for example kitabun (كِتابٌ) means 'a book'
 	- when al is added tanwin needs to dropped
 	- in possesive phrases possessor never takes tanwin, only the thing possessed might take tanwin
-		- for example kitabu bilalin (Bilals book) first word "Kitab" is
+		- for example kitabu bilalin (Bilals book) first word "Kitab" is the thing possessed "mudaf" and Bilal is the possessor "mudafu ilayhi" and takes tanwin
+			- here kitab does not take any
