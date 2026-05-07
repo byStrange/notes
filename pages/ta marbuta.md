@@ -1,3 +1,3 @@
-alias:: tamarbuta, Ta Marbuta, ta marbuta
+alias:: tamarbuta, Ta Marbuta, ta marbuta, round ta
 
-- Ta Marbuta als
+- Ta Marbuta also known
