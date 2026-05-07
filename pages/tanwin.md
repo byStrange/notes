@@ -1,1 +1,2 @@
-- tanwin means
+- in arabic tanwin is the n-sound at the end of the word acting like an indefinite "a/an" in English
+-
