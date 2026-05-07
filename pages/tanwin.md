@@ -4,5 +4,5 @@
 	- in possesive phrases possessor never takes tanwin, only the thing possessed might take tanwin
 		- for example kitabu bilalin (Bilals book) first word "Kitab" is the thing possessed "mudaf" and Bilal is the possessor "mudafu ilayhi" and takes tanwin
 			- here kitab does not take definite or indefinite articles
-	- words naturally ending with ta marbuta (tomchi ta harfi) won't take tanwin as well
+	- words naturally ending with [[ta marbuta]] (tomchi ta harfi) won't take tanwin as well
 		- for example: the name Muawiyatu (معاوية) ends with ta marbuta , thats why we don't say Muawiyatun, but for other names would end with tanwin like: Muhammadun, Ammarun
