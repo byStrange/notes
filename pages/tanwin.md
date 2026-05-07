@@ -1,4 +1,5 @@
 - in arabic tanwin is the n-sound at the end of the word acting like an indefinite "a/an" in English
 	- for example kitabun (كِتابٌ) means 'a book'
 	- when al is added tanwin needs to dropped
-	-
+	- in possesive phrases possessor never takes tanwin, only the thing possessed might take tanwin
+		- for example kitabu bilalin (Bilals book) first word "Kitab" is
