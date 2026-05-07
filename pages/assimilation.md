@@ -1,1 +1,3 @@
+alias:: assimilating, assimilated, assimilation
+
 - Assimilation means to be absorbed, incorporated, or adapted into a larger group, system, or body. It refers to taking in new information to understand it fully, absorbing nutrients into the body, or adopting the customs of a dominant culture, becoming indistinguishable from the group.
